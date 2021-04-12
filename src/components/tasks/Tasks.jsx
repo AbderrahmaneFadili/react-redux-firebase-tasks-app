@@ -12,9 +12,11 @@ const Tasks = () => {
           </tr>
         </thead>
         <tbody>
-          <td scope="col">Tasks</td>
-          <td scope="col">Status</td>
-          <td scope="col">Delete</td>
+          <tr>
+            <td scope="col">Tasks</td>
+            <td scope="col">Status</td>
+            <td scope="col">Delete</td>
+          </tr>
         </tbody>
       </table>
     </div>
