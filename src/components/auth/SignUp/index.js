@@ -1,5 +1,5 @@
 import React from "react";
-import SignUpComponent from "./components/SignUp";
+import SignUpComponent from "./component/SignUp";
 import { signUp } from "../../../redux/actions/authActions";
 import { connect } from "react-redux";
 

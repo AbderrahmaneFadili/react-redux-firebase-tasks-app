@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import SignInComponent from "./components/SignIn";
+import SignInComponent from "./component/SignIn";
 import { signIn } from "../../../redux/actions/authActions";
 
 const SignIn = (props) => <SignInComponent {...props} />;

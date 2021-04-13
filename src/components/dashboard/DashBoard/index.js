@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import DashboardComponent from "./components/Dashboard";
+import DashboardComponent from "./component/Dashboard";
 
 const Dashboard = (props) => <DashboardComponent {...props} />;
 
