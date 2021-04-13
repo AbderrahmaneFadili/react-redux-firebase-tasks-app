@@ -1,0 +1,6 @@
+export const ADD_TASK = "ADD_TASK";
+export const ADD_TASK_ERR = "ADD_TASK_ERR";
+export const REMOVE_TASK = "REMOVE_TASK";
+export const REMOVE_TASK_ERR = "REMOVE_TASK_ERR";
+export const TOGGLE_COMPLETED = "TOGGLE_COMPLETED";
+export const TOGGLE_COMPLETED_ERR = "TOGGLE_COMPLETED_ERR";

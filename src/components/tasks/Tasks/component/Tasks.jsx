@@ -14,7 +14,7 @@ const Tasks = ({ tasks }) => {
         <tbody>
           {tasks &&
             tasks.map((task, i) => {
-              return <Task key={task.id} title={task.title} />;
+              return <Task key={task.id} id={task.id} title={task.title} />;
             })}
         </tbody>
       </table>
